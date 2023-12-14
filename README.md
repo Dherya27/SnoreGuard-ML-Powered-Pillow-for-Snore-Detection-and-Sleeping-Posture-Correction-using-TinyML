@@ -35,7 +35,7 @@ Downloaded Snoring dataset from Kaggle.**-->>** Converted audio signal from .wav
 
 ### Working Demo 
 Will upload the better video soon...
-
+![workimng_demo](https://github.com/Dherya27/SnoreGuard-ML-Powered-Pillow-for-Snore-Detection-and-Sleeping-Posture-Correction-using-TinyML/blob/main/working_demo_animated.mp4)
 
 
 
