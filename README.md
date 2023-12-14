@@ -29,9 +29,14 @@ Turn the Snorer from **Supine** to **Side** position.
 <img src="https://github.com/Dherya27/SnoreGuard-ML-Powered-Pillow-for-Snore-Detection-and-Sleeping-Posture-Correction-using-TinyML/blob/main/Components.png" alt="Image 1" width="300"> <img src="https://github.com/Dherya27/SnoreGuard-ML-Powered-Pillow-for-Snore-Detection-and-Sleeping-Posture-Correction-using-TinyML/blob/main/Setup.png" alt="Image 2" width="308">
 
 ### Audio Data Preprocessing and basic training & inference working flow 
-Downloaded Snoring dataset from Kaggle.**-->>** Converted audio signal from .wav file to 2D tensor(spectrogram) as shown in the below.**-->>** Trained the classification model with CNN(Convolutional Neural Network) architecture.**-->>** Converted the trained model into .tflite and then into .h file. .h file contains the model's weight in array.
+Downloaded Snoring dataset from Kaggle.**-->>** Converted audio signal from .wav file to 2D tensor(spectrogram) as shown in the below figure.**-->>** Trained the classification model with CNN(Convolutional Neural Network) architecture.**-->>** Converted the trained model into .tflite and then into .h file. .h file contains the model's weight in array.
 
 <img src="https://github.com/Dherya27/SnoreGuard-ML-Powered-Pillow-for-Snore-Detection-and-Sleeping-Posture-Correction-using-TinyML/blob/main/2D_tensor_input.png" alt="Image 2" width="308">
+
+### Working Demo 
+Will upload the better video soon...
+
+
 
 
 
